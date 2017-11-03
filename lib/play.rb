@@ -39,7 +39,7 @@ def play(board)
   counter = 0
 	until counter == 8
   counter += 1
-  turn(board)
+  puts turn(board)
   end
 end
 # Define your play method below
