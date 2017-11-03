@@ -37,7 +37,7 @@ end
 
 def play(board)
   counter = 0
-	until counter == 9
+	until counter == 8
     puts "you are on turn #{counter}"
   counter += 1
   end
