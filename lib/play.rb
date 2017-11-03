@@ -35,7 +35,7 @@ def turn(board)
   end
 end
 
-def play(board, turn)
+def play(board)
   counter = 0
 	until counter == 9
   counter += 1
