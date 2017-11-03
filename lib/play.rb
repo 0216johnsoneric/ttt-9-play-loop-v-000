@@ -37,7 +37,7 @@ end
 
 def play(board)
   counter = 0
- loop do 
+ loop do
   counter += 1
   if counter >= 9
     break
@@ -45,10 +45,10 @@ def play(board)
 end
 
 
-  loop do
-    counter = 0
-	  until counter == 9
-    counter += 1
-  end
-end
+  #loop do
+  #  counter = 0
+	 # until counter == 9
+  #  counter += 1
+  #end
+#end
 # Define your play method below
